@@ -11,16 +11,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **JAVA** and **React**
+🔭 I’m currently working on **JAVA** and **React**
  
- 🌱 I’m currently learning **AI, Block Chain, Mobile Application Development**
+🌱 I’m currently learning **AI, Block Chain, Mobile Application Development**
 
 💬 Ask me about **JAVA... or anything [here](https://github.com/salesp07/sajjad-ali-01/issues)**
-- 👨‍💻 Online Portfolio [https://Sajjadportfolio.netlify.app/](https:///)
+👨‍💻 Online Portfolio [https://Sajjadportfolio.netlify.app/](https:///)
 
-- 💬 Ask me about **Java,Reactjs,WebDev**
-
-- 📫 How to reach me **sajjadshazii116@gmail.com**
+📫 How to reach me **sajjadshazii116@gmail.com**
 <br/>
 <hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjad-ali-01" alt="sajjad-ali-01" /></a> </p>
