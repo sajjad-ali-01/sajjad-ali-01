@@ -15,9 +15,9 @@
  
 🌱 I’m currently learning **AI, Block Chain, Mobile Application Development**
 
-💬 Ask me about **JAVA... or anything [here](https://github.com/salesp07/sajjad-ali-01/issues)**
+💬 Ask me about **JAVA... or anything [here](https://github.com/sajjad-ali-01/sajjad-ali-01/issues)**
 
-👨‍💻 Online Portfolio [https://Sajjadportfolio.netlify.app/](https:///)
+👨‍💻 Online Portfolio [[https://Sajjadportfolio.netlify.app/](https://sajjad-ali.w3spaces.com)]
 
 📫 How to reach me **sajjadshazii116@gmail.com**
 <br/>
