@@ -17,7 +17,7 @@
 
 💬 Ask me about **JAVA... or anything [here](https://github.com/sajjad-ali-01/sajjad-ali-01/issues)**
 
-👨‍💻 Online Portfolio [[https://Sajjadportfolio.netlify.app/](https://sajjad-ali.w3spaces.com)]
+👨‍💻 Online Portfolio [https://sajjad-ali.w3spaces.com](https://sajjad-ali.w3spaces.com)
 
 📫 How to reach me **sajjadshazii116@gmail.com**
 <br/>
