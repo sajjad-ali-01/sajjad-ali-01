@@ -24,6 +24,8 @@
 <hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjad-ali-01" alt="sajjad-ali-01" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjad-ali-01" alt="sajjad-ali-01" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjad-ali-01&label=Profile%20views&color=0e75b6&style=flat" alt="sajjad-ali-01" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjad-ali-01" alt="sajjad-ali-01" /></a> </p>
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
