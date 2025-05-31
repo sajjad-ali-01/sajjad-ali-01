@@ -11,15 +11,15 @@
 
 <div align="center">
  
-🔭 I’m currently working on **JAVA** and **React**
+🔭 I’m currently working on **Python** and **Flutter**
  
 🌱 I’m currently learning **AI, Block Chain, Mobile Application Development**
 
-💬 Ask me about **JAVA... or anything [here](https://github.com/sajjad-ali-01/sajjad-ali-01/issues)**
+💬 Ask me about **Flutter... or anything [here](https://github.com/sajjad-ali-01/sajjad-ali-01/issues)**
 
-👨‍💻 Online Portfolio [https://sajjad-ali.w3spaces.com](https://sajjad-ali.w3spaces.com)
+👨‍💻 Online Portfolio [https://sajjad-ali-01.github.io/](https://sajjad-ali-01.github.io/)
 
-📫 How to reach me **sajjadshazii116@gmail.com**
+📫 How to reach me **sajjad.218ali@gmail.com**
 <br/>
 <hr/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjad-ali-01" alt="sajjad-ali-01" /></a> </p>
@@ -27,7 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,java" />
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" />
@@ -48,10 +48,10 @@
  <h2 align="center"> Contact With Me 😊</h2>
 <br/>
 <div align="center"> 
-  <a href="mailto:sajjadshazii116@gmail.com">
+  <a href="mailto:sajjad.218ali@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://sajjad-ali.w3spaces.com" target="_blank">
+  <a href="https://sajjad-ali-01.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 <p align="center">
@@ -60,7 +60,6 @@
 </a>
 <a href="https://web.facebook.com/profile.php?id=100062434656314" 
     target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/profile.php?id=100062434656314" height="30" width="40" /></a>
-<a href="https://instagram.com/sajjad116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajjad ali" height="30" width="40" /></a>
 </p>
 </div>
  <hr/>
